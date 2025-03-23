@@ -1,2 +1,6 @@
 # Perovskite-based-optoelectronic-systems-for-neuromorphic-computing
-Brain-like neuromorphic computing system that mimics neuronal synapses using potassium ion–doped perovskite units. It offers advanced optoelectronic signal processing and high-noise recognition by leveraging electric double layer formation and influence-based data relabeling for training bias resolution.
+For anybody interested in this research, please feel free to read the paper.
+
+## Paper
+Available at: https://www.sciencedirect.com/science/article/abs/pii/S2211285523010066
+
